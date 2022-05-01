@@ -1,0 +1,1 @@
+//  Dùng đệ qui in các phần tử lẻ trong mảng ,theo thứ tự đầu mảng trở về sau

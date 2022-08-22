@@ -5,9 +5,9 @@
 
 ![image](https://user-images.githubusercontent.com/93416202/185986959-6a3e2eae-797a-43b1-b223-d04d655deaa2.png)
 
-![image](https://user-images.githubusercontent.com/93416202/185987038-2ee4f7c2-da23-4140-a165-c67717931520.png)
+<!-- ![image](https://user-images.githubusercontent.com/93416202/185987038-2ee4f7c2-da23-4140-a165-c67717931520.png) -->
 
 
-<p align = "center"  >
+<!-- <p align = "center"  >
            ... tobe continue ...
-</p>
+</p> -->
